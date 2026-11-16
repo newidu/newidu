@@ -16,6 +16,8 @@
 
 <img src="./assets/newidu-monochrome-hero.jpg" alt="Newidu monochrome night-shift workstation" width="100%" />
 
+<img src="./assets/silver-signal.svg" alt="Animated silver signal in the noise banner" width="100%" />
+
 <div align="center">
 
 `// PORTFOLIO — MMXXVI — BLACK · WHITE · SILVER`
