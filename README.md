@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=180&section=header&text=NEWIDU%20SAPUMAL&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Programmer%20%7C%20Cybersecurity%20Researcher%20%7C%20AI%20Developer&descAlignY=62&descSize=16" alt="Newidu cinematic waving header" width="100%" />
 
 # NEWIDU SAPUMAL
 
@@ -8,6 +9,7 @@
 [![X](https://img.shields.io/badge/X-@NewiduSapumal-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NewiduSapumal)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-@Newidu-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Newidu)
 [![Profile](https://img.shields.io/badge/GITHUB-@newidu-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/newidu)
+<img src="https://komarev.com/ghpvc/?username=newidu&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
 
 <img src="./assets/newidu-cinematic-hero.jpg" alt="Cinematic 3D developer workspace" width="100%" />
 
