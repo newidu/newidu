@@ -10,7 +10,8 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-@newidu-f4f4f2?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/newidu)
 [![X](https://img.shields.io/badge/X-@NewiduSapumal-f4f4f2?style=for-the-badge&logo=x&logoColor=0a0a0a)](https://x.com/NewiduSapumal)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-@Newidu-f4f4f2?style=for-the-badge&logo=telegram&logoColor=0a0a0a)](https://t.me/Newidu)
-<img src="https://komarev.com/ghpvc/?username=newidu&style=for-the-badge&color=3c3c3a&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/newidu?style=for-the-badge&label=FOLLOWERS&color=3c3c3a" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/newidu?style=for-the-badge&label=TOTAL%20STARS&color=3c3c3a" alt="Total GitHub stars" />
 
 </div>
 
