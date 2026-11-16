@@ -35,8 +35,8 @@
     </path>
     <g fill="#f4f4f2" font-family="monospace" font-size="13" letter-spacing="4">
       <text y="22">// NEWIDU / BLACK · WHITE · SILVER</text>
-      <text y="66" font-size="22" font-weight="700" letter-spacing="7">SIGNAL IN THE NOISE.</text>
-      <text y="103" fill="#9a9aa2" font-size="10" letter-spacing="3">OPEN SOURCE  ·  CYBERSECURITY  ·  AI AGENTS  ·  CRYPTO INTELLIGENCE</text>
+      <text y="66" font-size="22" font-weight="700" letter-spacing="7">NEWIDU SAPUMAL / PROGRAMMER</text>
+      <text y="103" fill="#9a9aa2" font-size="10" letter-spacing="3">PYTHON  ·  JAVASCRIPT  ·  PHP  ·  AI  ·  CYBERSECURITY</text>
     </g>
     <rect x="0" y="0" width="3" height="112" fill="#f4f4f2" opacity=".9">
       <animate attributeName="x" values="-10;1210;-10" dur="4.8s" repeatCount="indefinite"/>

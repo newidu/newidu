@@ -4,7 +4,7 @@
 
 # NS / NEWIDU
 
-### SIGNAL IN THE NOISE.
+### PROGRAMMER · SECURITY · AI · AGENTS · CRYPTO
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-newidu.netlify.app-f4f4f2?style=for-the-badge&logo=googlechrome&logoColor=0a0a0a)](https://newidu.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GITHUB-@newidu-f4f4f2?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/newidu)
@@ -24,20 +24,20 @@
 
 </div>
 
-> Everything I build starts small — a repo, a script, a lock that refuses to open. Lean in closer. The detail is where the work lives; the work is where I live.
+> I am Newidu Sapumal, a programmer and cybersecurity researcher from Sri Lanka. I build AI tools, automation systems, APIs, and open-source projects.
 
 `OPEN SOURCE` · `CYBERSECURITY` · `AI AGENTS` · `CRYPTO INTELLIGENCE` · `UI ENGINEERING`
 
 ---
 
-## CHAPTER 01 / INK
+## ABOUT NEWIDU
 
-# SIGNAL IN  
-# THE NOISE.
+# BUILDING SYSTEMS WITH
+# CODE, AI & SECURITY.
 
-I am **Newidu Sapumal** — programmer, cybersecurity researcher, and AI developer from **Sri Lanka**. I build agents that do real work, harden systems that others assume are safe, and ship it all in public where anyone can read the receipts.
+I am **Newidu Sapumal** from **Sri Lanka**. I work as a programmer, cybersecurity researcher, AI developer, and agent builder. My main focus is creating practical software that connects programming, automation, intelligent systems, APIs, and security.
 
-From node-based networking tools to an AI crypto-intelligence platform, my projects sit at the intersection where **code, security, and markets collide**.
+I share my work publicly on GitHub, including AI agents, messaging tools, speech-to-text systems, web API clients, networking experiments, and crypto-intelligence projects. I am interested in building useful products, learning new technologies, and collaborating with people who enjoy solving difficult technical problems.
 
 <div align="center">
 
@@ -131,12 +131,12 @@ _Automatically synced from 14 public repositories._
 
 ---
 
-## CHAPTER 02 / LIGHT
+## CURRENT FOCUS
 
-# DARKNESS,  
-# OUTWARD.
+# WHAT I AM
+# BUILDING NOW.
 
-Every build starts in silence. Then the camera pans, the beam opens up, and the whole point of the shot gets revealed at once. My work is public because that is the point — no smoke without light.
+I am currently working on AI agents, MCP tools, cybersecurity research, automation workflows, web APIs, and technology projects related to crypto and forex. I am also improving my project documentation, UI engineering skills, and open-source contribution workflow.
 
 ## ACHIEVEMENTS / MILESTONES
 
@@ -174,9 +174,9 @@ Every build starts in silence. Then the camera pans, the beam opens up, and the 
 
 ## CONTACT — THREE DOORS, ALL OPEN
 
-# SAY HELLO.
+# LET'S BUILD TOGETHER.
 
-Collaborating on something that lives at the edge of code, security, and markets? My DMs and my repos are both unlocked. Pull whatever you need — or open an issue and tell me what is broken.
+If you want to discuss AI development, cybersecurity, automation, APIs, open source, or a new technical project, you can contact me through my portfolio, X, Telegram, or GitHub.
 
 <div align="center">
 
@@ -188,7 +188,7 @@ Collaborating on something that lives at the edge of code, security, and markets
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4f4f2,55:3c3c3a,100:0a0a0a&height=130&section=footer" alt="Newidu monochrome footer" width="100%" />
 
-`BLACK · WHITE · SILVER`  
-`THE RECEIPTS ARE PUBLIC.`
+`NEWIDU SAPUMAL`  
+`PROGRAMMER · SECURITY · AI · AGENTS · CRYPTO`
 
 </div>
