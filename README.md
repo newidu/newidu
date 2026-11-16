@@ -51,20 +51,28 @@ class Newidu:
 
 </div>
 
-| Project | Description | Language |
-| --- | --- | --- |
-| [deepseek-web2api-tgbot](https://github.com/newidu/deepseek-web2api-tgbot) | Telegram bot built around DeepSeek web app workflows. | JavaScript |
-| [TrendOracle-Labs](https://github.com/newidu/TrendOracle-Labs) | AI-powered crypto intelligence platform. | Python |
-| [xapiweb](https://github.com/newidu/xapiweb) | Zero-dependency Python client for X web API operations. | Python |
-| [whatsapp-php](https://github.com/newidu/whatsapp-php) | WhatsApp Web bot with QR login and web launcher. | PHP |
-| [gemini-safe-mcp](https://github.com/newidu/gemini-safe-mcp) | Safety-focused Gemini and MCP tooling. | Python |
-| [voice-stt-api](https://github.com/newidu/voice-stt-api) | Speech-to-text API for voice-enabled applications. | Python |
-| [deepseek-harness](https://github.com/newidu/deepseek-harness) | Plugin-oriented DeepSeek harness. | — |
-| [video-agent](https://github.com/newidu/video-agent) | Video-agent experimentation workspace. | JavaScript |
-| [My-Video-Agent](https://github.com/newidu/My-Video-Agent) | HTML-based video-agent workspace. | HTML |
-| [v2ray-nodejs-v2](https://github.com/newidu/v2ray-nodejs-v2) | V2Ray project iteration. | JavaScript |
-| [ssh-vpn-nodejs](https://github.com/newidu/ssh-vpn-nodejs) | SSH/VPN project workspace. | HTML |
-| [live-strem](https://github.com/newidu/live-strem) | Live streaming project workspace. | — |
+<!-- PROJECTS:START -->
+
+_Automatically synced from 14 public repositories._
+
+| Project | Description | Language | Stars | Updated |
+| --- | --- | --- | ---: | --- |
+| [My-Video-Agent](https://github.com/newidu/My-Video-Agent) | Open-source project by Newidu. | HTML | 0 | 2026-11-02 |
+| [video-agent](https://github.com/newidu/video-agent) | Open-source project by Newidu. | JavaScript | 0 | 2026-11-01 |
+| [tg-bot](https://github.com/newidu/tg-bot) | Open-source project by Newidu. | — | 0 | 2026-10-24 |
+| [gemini-safe-mcp](https://github.com/newidu/gemini-safe-mcp) | Open-source project by Newidu. | Python | 0 | 2026-10-21 |
+| [whatsapp-php](https://github.com/newidu/whatsapp-php) | Simple PHP WhatsApp Web bot with QR login and web launcher | PHP | 0 | 2026-10-21 |
+| [xapiweb](https://github.com/newidu/xapiweb) | xapiweb is a zero-dependency Python client library for web API operations on X (Twitter). It does not require an OAuth application, and it reuses your browser session. | Python | 1 | 2026-10-14 |
+| [voice-stt-api](https://github.com/newidu/voice-stt-api) | Open-source project by Newidu. | Python | 0 | 2026-10-13 |
+| [deepseek-web2api-tgbot](https://github.com/newidu/deepseek-web2api-tgbot) | deepseek-web2api-tgbot is a Telegram bot that sits on top of the DeepSeek web app — it's not built on the paid developer platform: it signs in with your own browser session… | JavaScript | 0 | 2026-09-18 |
+| [deepseek-harness](https://github.com/newidu/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | — | 0 | 2026-08-17 |
+| [TrendOracle-Labs](https://github.com/newidu/TrendOracle-Labs) | AI-Powered Crypto Intelligence Platform built for the Bitget AI x Crypto Trading Hackathon. | Python | 0 | 2026-06-18 |
+| [live-strem](https://github.com/newidu/live-strem) | Open-source project by Newidu. | — | 0 | 2026-05-07 |
+| [v2ray-nodejs](https://github.com/newidu/v2ray-nodejs) | Open-source project by Newidu. | HTML | 0 | 2026-05-03 |
+| [ssh-vpn-nodejs](https://github.com/newidu/ssh-vpn-nodejs) | Open-source project by Newidu. | HTML | 0 | 2026-04-18 |
+| [v2ray-nodejs-v2](https://github.com/newidu/v2ray-nodejs-v2) | Open-source project by Newidu. | JavaScript | 0 | 2026-04-18 |
+
+<!-- PROJECTS:END -->
 
 ## GitHub activity
 
