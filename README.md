@@ -91,6 +91,21 @@ _Automatically synced from 14 public repositories._
 
 </div>
 
+## Achievements & milestones
+
+<div align="center">
+
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=newidu&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/newidu)
+
+</div>
+
+- **Open-source builder:** 14 public repositories currently synced to this profile.
+- **AI and crypto innovation:** TrendOracle-Labs was built for the Bitget AI x Crypto Trading Hackathon.
+- **Community signal:** xapiweb currently has a public star from the GitHub community.
+- **Automation enabled:** The profile project index now syncs automatically through GitHub Actions.
+
+> GitHub's official achievement badges are earned automatically through qualifying activity. The trophy wall above updates as new achievements are unlocked.
+
 ## Connect
 
 <div align="center">
