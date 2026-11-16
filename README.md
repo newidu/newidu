@@ -1,38 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=190&section=header&text=NEWIDU%20SAPUMAL&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Programmer%20%7C%20Cybersecurity%20Researcher%20%7C%20AI%20Developer&descAlignY=62&descSize=16" alt="Newidu Sapumal" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,55:3c3c3a,100:f4f4f2&height=190&section=header&text=NEWIDU%20SAPUMAL&fontSize=46&fontColor=f4f4f2&fontAlignY=40&desc=PROGRAMMER%20%2F%20SECURITY%20%2F%20AI%20%2F%20AGENTS%20%2F%20CRYPTO&descAlignY=63&descSize=14" alt="Newidu Sapumal monochrome header" width="100%" />
 
-# Newidu Sapumal
+# NS / NEWIDU
 
-### Building useful systems at the intersection of code, intelligence, and security.
+### SIGNAL IN THE NOISE.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-newidu.netlify.app-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://newidu.netlify.app/)
-[![X](https://img.shields.io/badge/X-@NewiduSapumal-0f172a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NewiduSapumal)
-[![Telegram](https://img.shields.io/badge/Telegram-@Newidu-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Newidu)
-<img src="https://komarev.com/ghpvc/?username=newidu&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-newidu.netlify.app-f4f4f2?style=for-the-badge&logo=googlechrome&logoColor=0a0a0a)](https://newidu.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-@newidu-f4f4f2?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/newidu)
+[![X](https://img.shields.io/badge/X-@NewiduSapumal-f4f4f2?style=for-the-badge&logo=x&logoColor=0a0a0a)](https://x.com/NewiduSapumal)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-@Newidu-f4f4f2?style=for-the-badge&logo=telegram&logoColor=0a0a0a)](https://t.me/Newidu)
+<img src="https://komarev.com/ghpvc/?username=newidu&style=for-the-badge&color=3c3c3a&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-<img src="./assets/newidu-cinematic-hero.jpg" alt="Cinematic 3D developer workspace" width="100%" />
+<img src="./assets/newidu-monochrome-hero.jpg" alt="Newidu monochrome night-shift workstation" width="100%" />
 
-## About
+<div align="center">
 
-I am a programmer and cybersecurity researcher from **Sri Lanka**, focused on AI systems, automation, APIs, developer tools, and practical open-source software.
+`// PORTFOLIO — MMXXVI — BLACK · WHITE · SILVER`
 
-- Building AI agents and intelligent automation
-- Exploring cybersecurity, MCP, APIs, and web technologies
-- Interested in crypto, forex, and technology innovation
-- Open to useful collaborations and ambitious technical ideas
+</div>
+
+> Everything I build starts small — a repo, a script, a lock that refuses to open. Lean in closer. The detail is where the work lives; the work is where I live.
+
+`OPEN SOURCE` · `CYBERSECURITY` · `AI AGENTS` · `CRYPTO INTELLIGENCE` · `UI ENGINEERING`
+
+---
+
+## CHAPTER 01 / INK
+
+# SIGNAL IN  
+# THE NOISE.
+
+I am **Newidu Sapumal** — programmer, cybersecurity researcher, and AI developer from **Sri Lanka**. I build agents that do real work, harden systems that others assume are safe, and ship it all in public where anyone can read the receipts.
+
+From node-based networking tools to an AI crypto-intelligence platform, my projects sit at the intersection where **code, security, and markets collide**.
+
+<div align="center">
+
+| `14+` | `06` | `24/7` |
+| :---: | :---: | :---: |
+| PUBLIC REPOS | DISCIPLINES | BUILDING |
+
+</div>
 
 ```python
 class Newidu:
     location = "Sri Lanka"
-    focus = ["AI", "Cybersecurity", "Automation", "Web APIs"]
-    languages = ["Python", "JavaScript", "PHP"]
+    focus = ["Programming", "Cybersecurity", "AI", "Agents", "Crypto", "Interfaces"]
+    weapons = ["Python", "JavaScript", "PHP"]
     principle = "Build useful things. Learn constantly. Share openly."
 ```
 
-## Tech stack
+## CAPABILITIES — INDEXED 01→06
+
+| Index | Capability | What I ship |
+| :---: | --- | --- |
+| `01` | **Programming** | Single-file scripts to full platforms — Python and JavaScript/Node as daily weapons. |
+| `02` | **Cybersecurity** | VPN and proxy tooling, protocol work, and research-first system testing. |
+| `03` | **AI Development** | AI pipelines that turn raw data into decisions people can use. |
+| `04` | **Agent Builder** | Autonomous agents designed, orchestrated, and deployed for real work. |
+| `05` | **Crypto & Forex** | Market intelligence, structured signals, and volatility research. |
+| `06` | **Interface Work** | Motion, typography, hierarchy, and front-ends with a point of view. |
 
 <div align="center">
 
@@ -40,16 +70,39 @@ class Newidu:
 
 </div>
 
-## Selected projects
+---
+
+## SELECTED WORK — READ THE RECEIPTS
+
+### FLAGSHIP VERIFIED / 01
 
 <div align="center">
 
-<a href="https://github.com/newidu/deepseek-web2api-tgbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=newidu&repo=deepseek-web2api-tgbot&theme=github_dark&hide_border=true&bg_color=0f172a" alt="deepseek-web2api-tgbot" /></a>
-<a href="https://github.com/newidu/TrendOracle-Labs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=newidu&repo=TrendOracle-Labs&theme=github_dark&hide_border=true&bg_color=0f172a" alt="TrendOracle-Labs" /></a>
-<a href="https://github.com/newidu/xapiweb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=newidu&repo=xapiweb&theme=github_dark&hide_border=true&bg_color=0f172a" alt="xapiweb" /></a>
-<a href="https://github.com/newidu/gemini-safe-mcp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=newidu&repo=gemini-safe-mcp&theme=github_dark&hide_border=true&bg_color=0f172a" alt="gemini-safe-mcp" /></a>
+# TRENDORACLE LABS
+
+`PYTHON` · `AI / ML` · `CRYPTO DATA` · `HACKATHON BUILD`
 
 </div>
+
+An AI-powered crypto intelligence platform built for the **Bitget AI × Crypto Trading Hackathon**. It ingests market chaos, runs it through an AI pipeline, and returns clean, tradable signal — not vibes.
+
+<div align="center">
+
+[![VISIT LIVE](https://img.shields.io/badge/VISIT%20LIVE-trendoracle.online-f4f4f2?style=for-the-badge&logoColor=0a0a0a)](https://www.trendoracle.online/)
+[![SOURCE](https://img.shields.io/badge/SOURCE-GitHub-f4f4f2?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/newidu/TrendOracle-Labs)
+
+</div>
+
+### OTHER RECEIPTS
+
+`02` [ssh-vpn-nodejs](https://github.com/newidu/ssh-vpn-nodejs) · SSH / VPN / NODE  
+`03` [v2ray-nodejs](https://github.com/newidu/v2ray-nodejs) · V2RAY / HTML  
+`04` [v2ray-nodejs-v2](https://github.com/newidu/v2ray-nodejs-v2) · V2RAY / JAVASCRIPT  
+`05` [live-strem](https://github.com/newidu/live-strem) · LIVE STREAMING  
+`06` [deepseek-web2api-tgbot](https://github.com/newidu/deepseek-web2api-tgbot) · AI / TELEGRAM / JAVASCRIPT  
+`07` [gemini-safe-mcp](https://github.com/newidu/gemini-safe-mcp) · AI / MCP / PYTHON
+
+## PROJECT INDEX — AUTO-SYNCED
 
 <!-- PROJECTS:START -->
 
@@ -74,24 +127,16 @@ _Automatically synced from 14 public repositories._
 
 <!-- PROJECTS:END -->
 
-## GitHub activity
+---
 
-<div align="center">
+## CHAPTER 02 / LIGHT
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=newidu&show_icons=true&hide_border=true&rank_icon=github&bg_color=0f172a&title_color=38bdf8&icon_color=22d3ee&text_color=e2e8f0&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newidu&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&langs_count=8" alt="Top languages" />
+# DARKNESS,  
+# OUTWARD.
 
-<br />
+Every build starts in silence. Then the camera pans, the beam opens up, and the whole point of the shot gets revealed at once. My work is public because that is the point — no smoke without light.
 
-<img src="https://streak-stats.demolab.com?user=newidu&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=22D3EE&currStreakLabel=E2E8F0" alt="Contribution streak" />
-
-<br />
-
-[![Newidu's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=newidu&bg_color=0f172a&color=e2e8f0&line=38bdf8&point=22d3ee&area=true&hide_border=true)](https://github.com/newidu)
-
-</div>
-
-## Achievements & milestones
+## ACHIEVEMENTS / MILESTONES
 
 <div align="center">
 
@@ -100,20 +145,48 @@ _Automatically synced from 14 public repositories._
 </div>
 
 - **Open-source builder:** 14 public repositories currently synced to this profile.
-- **AI and crypto innovation:** TrendOracle-Labs was built for the Bitget AI x Crypto Trading Hackathon.
-- **Community signal:** xapiweb currently has a public star from the GitHub community.
-- **Automation enabled:** The profile project index now syncs automatically through GitHub Actions.
+- **AI and crypto innovation:** TrendOracle Labs was built for the Bitget AI × Crypto Trading Hackathon.
+- **Community signal:** xapiweb has a public star from the GitHub community.
+- **Automation enabled:** the project index syncs automatically through GitHub Actions.
 
-> GitHub's official achievement badges are earned automatically through qualifying activity. The trophy wall above updates as new achievements are unlocked.
+> GitHub's official achievement badges are earned automatically through qualifying activity. The trophy wall updates as new achievements are unlocked.
 
-## Connect
+## SYSTEM ACTIVITY
 
 <div align="center">
 
-[Portfolio](https://newidu.netlify.app/) · [X / @NewiduSapumal](https://x.com/NewiduSapumal) · [Telegram / @Newidu](https://t.me/Newidu) · [GitHub / @newidu](https://github.com/newidu)
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=newidu&show_icons=true&hide_border=true&rank_icon=github&bg_color=0a0a0a&title_color=f4f4f2&icon_color=cfcfd6&text_color=cfcfd6&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newidu&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f4f4f2&text_color=cfcfd6&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=newidu&theme=dark&hide_border=true&background=0A0A0A&ring=CFCFD6&fire=F4F4F2&currStreakLabel=F4F4F2&sideLabels=CFCFD6&currStreakNum=F4F4F2&sideNums=F4F4F2" alt="Contribution streak" />
+
+<br />
+
+[![Newidu's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=newidu&bg_color=0a0a0a&color=cfcfd6&line=f4f4f2&point=f4f4f2&area=true&area_color=3c3c3a&hide_border=true&custom_title=ACTIVITY%20STREAM)](https://github.com/newidu)
+
+</div>
+
+---
+
+## CONTACT — THREE DOORS, ALL OPEN
+
+# SAY HELLO.
+
+Collaborating on something that lives at the edge of code, security, and markets? My DMs and my repos are both unlocked. Pull whatever you need — or open an issue and tell me what is broken.
+
+<div align="center">
+
+[**X / Twitter** @NewiduSapumal](https://x.com/NewiduSapumal) · [**Telegram** @newidu](https://t.me/Newidu) · [**GitHub** github.com/newidu](https://github.com/newidu)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=130&section=footer" alt="Newidu profile footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4f4f2,55:3c3c3a,100:0a0a0a&height=130&section=footer" alt="Newidu monochrome footer" width="100%" />
+
+`BLACK · WHITE · SILVER`  
+`THE RECEIPTS ARE PUBLIC.`
+
 </div>
