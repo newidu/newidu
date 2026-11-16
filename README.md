@@ -56,7 +56,7 @@ class Newidu:
 ## CAPABILITIES — INDEXED 01→06
 
 | Index | Capability | What I ship |
-| :---: | --- | --- |
+| :---: | :---: | :---: |
 | `01` | **Programming** | Single-file scripts to full platforms — Python and JavaScript/Node as daily weapons. |
 | `02` | **Cybersecurity** | VPN and proxy tooling, protocol work, and research-first system testing. |
 | `03` | **AI Development** | AI pipelines that turn raw data into decisions people can use. |
@@ -109,7 +109,7 @@ An AI-powered crypto intelligence platform built for the **Bitget AI × Crypto T
 _Automatically synced from 14 public repositories._
 
 | Project | Description | Language | Stars | Updated |
-| --- | --- | --- | ---: | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | [My-Video-Agent](https://github.com/newidu/My-Video-Agent) | Open-source project by Newidu. | HTML | 0 | 2026-11-02 |
 | [video-agent](https://github.com/newidu/video-agent) | Open-source project by Newidu. | JavaScript | 0 | 2026-11-01 |
 | [tg-bot](https://github.com/newidu/tg-bot) | Open-source project by Newidu. | — | 0 | 2026-10-24 |

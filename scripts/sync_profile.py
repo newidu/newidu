@@ -52,7 +52,7 @@ def render(repositories: list[dict]) -> str:
         f"_Automatically synced from {len(repositories)} public repositories._",
         "",
         "| Project | Description | Language | Stars | Updated |",
-        "| --- | --- | --- | ---: | --- |",
+        "| :---: | :---: | :---: | :---: | :---: |",
     ]
     for repo in repositories:
         name = cell(repo.get("name", "project"))
